@@ -1,1 +1,2 @@
-# ChurnAnalysisForeignBank
+# Churn Analysis Foreign Bank
+This GitHub repository is a collection of code and resources related to the churn analysis of customers for a bank. It includes a Tableau dashboard that presents the data in an easy-to-understand format. The repository aims to provide insights into customer churn behavior and identify patterns that can help improve customer retention. Users can access the repository to explore the dataset, analyze the results and use the code to build their own models. The repository serves as a valuable resource for anyone interested in analyzing customer churn for a financial institution.
